@@ -1,0 +1,3 @@
+Daca aceasta bucata de cod functioneaza inseamna ca n apare de 5 ori.
+
+Iar c apare de 7 ori.
